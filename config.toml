@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "DocDock Documentation"
+title = "frontendeveloper.info"
 theme = "docDock"
 #themesdir = "../.."
 pygmentsCodeFences = true
