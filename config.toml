@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://frontendeveloper.info/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
